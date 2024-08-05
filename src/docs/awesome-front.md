@@ -1,5 +1,5 @@
 <script setup>
-    import Container from "./components/Container.vue"
+    import FrontContainer from "./components/FrontContainer.vue"
 </script>
 
-<Container />
+<FrontContainer />

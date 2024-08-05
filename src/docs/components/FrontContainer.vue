@@ -36,6 +36,9 @@
         <Item title="Gsap" desc="A wildly robust JavaScript animation library built for professionals"
             link="https://gsap.com/">
         </Item>
+        <Item title="MotionPrimitives" desc="Build beautiful animated components"
+            link="https://motion-primitives.com/">
+        </Item>
     </div>
     <h2>Vue生态</h2>
     <div class="item-container">
@@ -221,6 +224,9 @@
         </Item>
         <Item title="Shadcn" desc="Beautifully designed components that you can copy and paste into your apps"
             link="https://ui.shadcn.com/">
+        </Item>
+        <Item title="Preline" desc="Preline UI is an open-source Tailwind CSS components library for any needs. Comes with UI examples & blocks, templates, plugins, Figma design system and more."
+            link="https://preline.co/">
         </Item>
         <Item title="Weui"
             desc="WeUI is a set of basic style libraries that are consistent with WeChat's native visual experience, designed by WeChat's official design team for WeChat's web pages and WeChat's small programs."
