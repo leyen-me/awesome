@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "vitepress dev src --host 0.0.0.0",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src --host 0.0.0.0",
+    "git": "git add . && git-cz"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.0.11",
+    "vitepress": "^1.0.0-rc.33"
+  },
+  "dependencies": {
+    "@vue/theme": "^2.2.12"
+  }
+}
