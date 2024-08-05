@@ -11,7 +11,7 @@ export const nav = [
   },
   {
     text: "Other",
-    link: "/docs/awesome-other",
-    activeMatch: "/docs/awesome-other",
+    link: "/docs/other/",
+    activeMatch: "/docs/other/(.*)",
   },
 ];
