@@ -16,6 +16,9 @@
         <Item title="Curated" desc="Unleash your creativity with out-of-this-world web design inspiration from across the web"
             link="https://www.curated.design/">
         </Item>
+        <Item title="Codrops" desc="Discover our curated collection of 500+ free animations, interaction concepts, UI designs, web templates & more."
+            link="https://tympanus.net/codrops/">
+        </Item>
     </div>
 </template>
 

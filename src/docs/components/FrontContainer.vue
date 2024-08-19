@@ -75,6 +75,10 @@
             desc="A small, fast and scalable bearbones state-management solution using simplified flux principles. Has a comfy API based on hooks, isn't boilerplatey or opinionated."
             link="https://zustand-demo.pmnd.rs/">
         </Item>
+        <Item title="react-query" desc="Powerful asynchronous state management for TS/JS, React, Solid, Vue, Svelte and Angular" link="https://tanstack.com/query/latest">
+        </Item>
+        <Item title="usehooks" desc="useHooks(🔥).ts is a React hooks library, written in Typescript and easy to use. It provides a set of hooks that enables you to build your React applications faster. The hooks are built upon the principles of DRY (Don't Repeat Yourself). There are hooks for most common use cases you might need." link="https://usehooks-ts.com/">
+        </Item>
         <Item title="SWR" desc="React Hooks Library for Data Requests" link="https://swr.vercel.app/">
         </Item>
     </div>

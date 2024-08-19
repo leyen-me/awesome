@@ -10,6 +10,12 @@
         <Item title="ibelick" desc="Crafting UIs with React since 2016. Passionate about interface design and attention to detail, striving to create great experiences."
             link="https://ibelick.com/">
         </Item>
+        <Item title="jacksonoswalt" desc="At 12 years old, I built a nuclear fusion reactor."
+            link="https://jacksonoswalt.com/">
+        </Item>
+        <Item title="vaunb" desc="I'm Vaun and here I document what I'm currently working on and what excites me."
+            link="https://vaunb.lu/">
+        </Item>
     </div>
 </template>
 
